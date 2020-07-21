@@ -1,0 +1,4 @@
+a=raw_input("first string")
+b=raw_input("second string")
+print(a)
+print(b)
