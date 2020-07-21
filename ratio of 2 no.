@@ -1,0 +1,5 @@
+print("enter the numbers")
+a=input()
+b=input()
+ratio= int(a)/int(b)
+print("ratio=",ratio)
