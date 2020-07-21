@@ -1,0 +1,7 @@
+print("enter the numbers")
+a=input()
+b=input()
+q= int(a)/int(b)
+r=int(a)%int(b)
+print("reminder=",r)
+print("quotient=",q)
